@@ -10,3 +10,5 @@
 - Selenium
 - MiniConda
 - VSCode com extensão Jupyter instalado
+- Chrome
+- Chrome Driver
