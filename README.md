@@ -12,3 +12,12 @@
 - Python
 - Selenium
 - VSCode com extensão Jupyter instalado
+
+## Aviso
+
+- Coloque seu usuário e senha conforme código abaixo, no arquivo bot.ipynb:
+
+```python
+usuario = 'seuUsuarioAqui'
+senha = 'suaAqui'
+```
