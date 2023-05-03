@@ -2,13 +2,13 @@
 
 ## Descrição
 
-  Bot simples que entra no instagram
+  Criado bot que entra no instagram, simples mas que serviu para aprender.
 
 ## O que foi utilizado
 
-- Python
-- Selenium
-- MiniConda
-- VSCode com extensão Jupyter instalado
 - Chrome
 - Chrome Driver
+- MiniConda
+- Python
+- Selenium
+- VSCode com extensão Jupyter instalado
